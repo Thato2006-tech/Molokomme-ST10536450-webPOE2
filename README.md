@@ -3,11 +3,11 @@
 The MSG Blanket drive website was created to provide information about the drive its self and also how people can support the organisation 
 
 # Pages
-Home
-History
-Gallery
-Events
-Donations
+Home : It introduces visitors to the MSG Blanket drive 
+History: Explains how the blanket drive started its mission and vision 
+Gallery: Shows photos from the events and community activities
+Events: Provides information about the MSG events and car meets
+Donations: Explains different ways people can support the blanket drive
 
 ## Project structure
 MSG-Blanket-Drive/
@@ -58,4 +58,4 @@ Google :https://www.w3schools.com/Html/
         https://developer.mozilla.org/en-US/docs/Web/CSS
         https://www.codecademy.com/learn/learn-css
         
-Youtube :
+Youtube :https://www.youtube.com/watch?v=wRNinF7YQqQ
